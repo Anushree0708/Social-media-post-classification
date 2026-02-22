@@ -214,13 +214,4 @@ Future Improvements
 - Batch inference pipeline
 
 
-License
-=======
 
-Add your license here (MIT recommended).
-
-
-Author
-======
-
-Your Name
